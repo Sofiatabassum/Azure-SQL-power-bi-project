@@ -107,3 +107,7 @@ This project provides a clear view of how different men’s t-shirt brands perfo
 
 screenshot of whole project:-
 
+<img width="1425" height="777" alt="Image" src="https://github.com/user-attachments/assets/414420d5-e5a6-4c6f-b03a-4bf3d54b8aa4" />
+
+<img width="1406" height="769" alt="Image" src="https://github.com/user-attachments/assets/669b9ec6-5020-4930-885a-43ae531dbb50" />
+
