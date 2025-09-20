@@ -104,3 +104,6 @@ Explore the dashboards interactively or publish to Power BI Service.
 This project provides a clear view of how different men’s t-shirt brands perform across discounts, profitability, product variety, and pricing. These insights can help businesses fine-tune their marketing strategies, pricing models, and product diversification plans to stay ahead in the competitive apparel market.
 
 ✨ Created with Azure | SQL | Power BI
+
+screenshot of whole project:-
+
