@@ -51,6 +51,8 @@ Top 5 Brands by Highest Average Profit %
 
 Top 5 Brands by Number of Varieties
 
+<img width="543" height="312" alt="Image" src="https://github.com/user-attachments/assets/867cb36f-df56-49a0-8725-06b735e1596e" />
+
 Top 5 Brands by Average Sales Price
 
 Bottom 5 Brands by Average Profit %
