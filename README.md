@@ -59,7 +59,7 @@ Top 5 Brands by Average Sales Price
 
 Bottom 5 Brands by Average Profit %
 
-(Replace these links with actual screenshot paths or GitHub-uploaded image URLs)
+<img width="372" height="302" alt="Image" src="https://github.com/user-attachments/assets/2a7cb5a0-af4c-4c17-8505-c3f16e323a87" />
 
 🔍 Insights
 
