@@ -46,6 +46,7 @@ Top 5 Brands by Average Discount %
 <img width="595" height="291" alt="Image" src="https://github.com/user-attachments/assets/d96a8e52-55d4-48e4-9231-052e63b27b5a" />
 
 Top 5 Brands by Highest Average Profit %
+<img width="595" height="291" alt="Image" src="https://github.com/user-attachments/assets/d96a8e52-55d4-48e4-9231-052e63b27b5a" />
 
 Top 5 Brands by Number of Varieties
 
